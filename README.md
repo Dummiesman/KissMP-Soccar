@@ -3,6 +3,8 @@ A car soccer game-mode for KISS Multiplayer servers
 
 ### How to use
 - Put the "soccar" folder in your servers "addon" directory
+- Put the mods from the mods folder into your servers "mods" directory
+- Set the servers level to "levels/derby/info.json"
 - Run the server
     - Ensure the vehicle limit on the server is at least 2
     - A configuration file will be generated for the game mode
