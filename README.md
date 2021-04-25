@@ -15,3 +15,8 @@ A car soccer game-mode for KISS Multiplayer servers
     - After doing this, 'TAB' over to the ball and type in chat "/ball" or "/setball"
 - All players will then set their teams by typing "/team red" or "/team blue"
 - After teams are set, the game will start
+
+### What are the mods?
+DerbyMod.zip moves barriers around, adds arena collision, and adds goal posts.
+
+ball.zip makes the ball near invincible so it won't pop during gameplay.
